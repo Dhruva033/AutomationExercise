@@ -1,0 +1,1198 @@
+[2025-05-03T05:47:01.656Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:47:02.934Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:47:06.125Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T05:47:06.246Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T05:48:29.386Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:48:30.464Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:48:32.978Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T05:48:32.989Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T05:52:18.119Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:52:18.977Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:52:21.523Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T05:52:21.532Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T05:54:02.275Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:54:03.203Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:54:05.902Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T05:54:05.911Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T05:57:14.949Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:57:16.056Z] [INFO] - Initializing Chrome driver
+[2025-05-03T05:57:18.890Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T05:57:18.897Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T06:00:11.877Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:00:12.866Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:00:15.936Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T06:00:15.945Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 135.0.7049.115 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T06:03:00.182Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:03:01.428Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:03:04.175Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 136.0.7103.49 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T06:03:04.183Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 136.0.7103.49 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T06:07:42.022Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:07:42.911Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:07:45.641Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 136.0.7103.49 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T06:07:45.653Z] [ERROR] - Failed to initialize WebDriver: SessionNotCreatedError: session not created: This version of ChromeDriver only supports Chrome version 133
+Current browser version is 136.0.7103.49 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+[2025-05-03T06:20:35.687Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:20:35.703Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:20:40.374Z] [ERROR] - Failed to initialize WebDriver: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 136.0.7103.49 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-D6817QQ', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	GetHandleVerifier [0x006BA813+48355]
+	(No symbol) [0x0064C4B1]
+	(No symbol) [0x00555358]
+	(No symbol) [0x005761AC]
+	(No symbol) [0x00571EF3]
+	(No symbol) [0x00570579]
+	(No symbol) [0x005A0C55]
+	(No symbol) [0x005A093C]
+	(No symbol) [0x0059A536]
+	(No symbol) [0x005782DC]
+	(No symbol) [0x005793DD]
+	GetHandleVerifier [0x0091AABD+2539405]
+	GetHandleVerifier [0x0095A78F+2800735]
+	GetHandleVerifier [0x0095456C+2775612]
+	GetHandleVerifier [0x007451E0+616112]
+	(No symbol) [0x00655F8C]
+	(No symbol) [0x00652328]
+	(No symbol) [0x0065240B]
+	(No symbol) [0x00644FF7]
+	BaseThreadInitThunk [0x76665D49+25]
+	RtlInitializeExceptionChain [0x777FCFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x777FCF81+561]
+
+[2025-05-03T06:20:40.376Z] [ERROR] - Failed to initialize WebDriver: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 136.0.7103.49 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-D6817QQ', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	GetHandleVerifier [0x006BA813+48355]
+	(No symbol) [0x0064C4B1]
+	(No symbol) [0x00555358]
+	(No symbol) [0x005761AC]
+	(No symbol) [0x00571EF3]
+	(No symbol) [0x00570579]
+	(No symbol) [0x005A0C55]
+	(No symbol) [0x005A093C]
+	(No symbol) [0x0059A536]
+	(No symbol) [0x005782DC]
+	(No symbol) [0x005793DD]
+	GetHandleVerifier [0x0091AABD+2539405]
+	GetHandleVerifier [0x0095A78F+2800735]
+	GetHandleVerifier [0x0095456C+2775612]
+	GetHandleVerifier [0x007451E0+616112]
+	(No symbol) [0x00655F8C]
+	(No symbol) [0x00652328]
+	(No symbol) [0x0065240B]
+	(No symbol) [0x00644FF7]
+	BaseThreadInitThunk [0x76665D49+25]
+	RtlInitializeExceptionChain [0x777FCFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x777FCF81+561]
+
+[2025-05-03T06:23:28.652Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:23:28.657Z] [INFO] - Initializing Chrome driver
+[2025-05-03T06:23:30.696Z] [ERROR] - Failed to initialize WebDriver: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 136.0.7103.49 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-D6817QQ', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	GetHandleVerifier [0x006BA813+48355]
+	(No symbol) [0x0064C4B1]
+	(No symbol) [0x00555358]
+	(No symbol) [0x005761AC]
+	(No symbol) [0x00571EF3]
+	(No symbol) [0x00570579]
+	(No symbol) [0x005A0C55]
+	(No symbol) [0x005A093C]
+	(No symbol) [0x0059A536]
+	(No symbol) [0x005782DC]
+	(No symbol) [0x005793DD]
+	GetHandleVerifier [0x0091AABD+2539405]
+	GetHandleVerifier [0x0095A78F+2800735]
+	GetHandleVerifier [0x0095456C+2775612]
+	GetHandleVerifier [0x007451E0+616112]
+	(No symbol) [0x00655F8C]
+	(No symbol) [0x00652328]
+	(No symbol) [0x0065240B]
+	(No symbol) [0x00644FF7]
+	BaseThreadInitThunk [0x76665D49+25]
+	RtlInitializeExceptionChain [0x777FCFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x777FCF81+561]
+
+[2025-05-03T06:23:30.714Z] [ERROR] - Failed to initialize WebDriver: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 136.0.7103.49 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-D6817QQ', ip: '192.168.0.101', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+Driver info: driver.version: unknown
+remote stacktrace: Backtrace:
+	GetHandleVerifier [0x006BA813+48355]
+	(No symbol) [0x0064C4B1]
+	(No symbol) [0x00555358]
+	(No symbol) [0x005761AC]
+	(No symbol) [0x00571EF3]
+	(No symbol) [0x00570579]
+	(No symbol) [0x005A0C55]
+	(No symbol) [0x005A093C]
+	(No symbol) [0x0059A536]
+	(No symbol) [0x005782DC]
+	(No symbol) [0x005793DD]
+	GetHandleVerifier [0x0091AABD+2539405]
+	GetHandleVerifier [0x0095A78F+2800735]
+	GetHandleVerifier [0x0095456C+2775612]
+	GetHandleVerifier [0x007451E0+616112]
+	(No symbol) [0x00655F8C]
+	(No symbol) [0x00652328]
+	(No symbol) [0x0065240B]
+	(No symbol) [0x00644FF7]
+	BaseThreadInitThunk [0x76665D49+25]
+	RtlInitializeExceptionChain [0x777FCFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x777FCF81+561]
+
+[2025-05-03T06:44:33.881Z] [ERROR] - Failed to initialize WebDriver: path is not defined
+[2025-05-03T06:44:33.886Z] [ERROR] - Failed to initialize WebDriver: path is not defined
+[2025-05-03T06:46:44.677Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T06:46:44.684Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T06:46:46.769Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T06:46:47.159Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T06:46:47.162Z] [ERROR] - Navigation failed: TypeError: this.driver.get is not a function
+[2025-05-03T06:46:47.164Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T06:51:37.972Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T06:51:39.723Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T06:51:39.728Z] [ERROR] - Navigation failed: TypeError: Cannot read properties of undefined (reading 'get')
+[2025-05-03T06:51:39.730Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T06:52:01.235Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T06:52:02.846Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T06:52:02.857Z] [ERROR] - Navigation failed: TypeError: Cannot read properties of undefined (reading 'get')
+[2025-05-03T06:52:02.860Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T06:57:49.986Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T06:57:51.315Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T06:57:55.381Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T06:58:40.419Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T06:58:42.068Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T06:58:45.776Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T07:04:10.927Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T07:04:12.416Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T07:04:15.672Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T07:12:05.703Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T07:12:07.353Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T07:12:11.107Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T07:14:09.174Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T07:14:11.040Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T07:14:17.001Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T07:29:38.430Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T07:29:39.579Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T07:29:40.165Z] [ERROR] - Navigation failed: WebDriverError: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=136.0.7103.49)
+[2025-05-03T07:29:40.331Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T07:36:00.366Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T07:36:01.403Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T07:36:02.239Z] [ERROR] - Navigation failed: WebDriverError: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=136.0.7103.49)
+[2025-05-03T07:36:02.484Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T07:44:08.332Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T07:44:10.097Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T07:44:10.659Z] [ERROR] - Navigation failed: WebDriverError: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=136.0.7103.49)
+[2025-05-03T07:44:10.838Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T07:49:27.879Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T07:49:29.180Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T07:49:30.026Z] [INFO] - Navigated to: https://example.com
+[2025-05-03T07:49:30.298Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T07:50:35.949Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T07:50:36.913Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T07:50:37.869Z] [INFO] - Navigated to: https://example.com
+[2025-05-03T07:50:38.145Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T08:26:03.877Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T08:26:05.029Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T08:26:05.853Z] [INFO] - Navigated to: https://example.com
+[2025-05-03T08:26:06.130Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T08:26:59.619Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T08:27:00.882Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T08:27:06.061Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T08:27:06.383Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T08:27:23.925Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T08:27:24.997Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T08:27:30.381Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T08:27:30.680Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T08:28:54.632Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T08:28:55.692Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T08:28:59.204Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T08:28:59.399Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T08:40:26.232Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T08:40:27.475Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T08:40:51.315Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T08:42:31.403Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T08:42:32.553Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T08:42:36.851Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T08:42:49.309Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T08:42:50.382Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T08:42:52.309Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T08:47:26.458Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T08:47:27.459Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T08:47:31.945Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T08:47:32.380Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T09:09:58.941Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T09:09:59.926Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T09:10:36.567Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T09:16:38.152Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T09:16:39.213Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T09:17:03.008Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T09:17:03.240Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T09:18:41.632Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T09:18:42.696Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T09:18:47.073Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T09:18:47.492Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T09:25:49.290Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T09:25:50.311Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T09:25:54.811Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T13:34:37.245Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T13:34:38.808Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T13:34:44.541Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T13:34:44.821Z] [ERROR] - Screenshot capture failed:
+[2025-05-03T13:36:20.349Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T13:36:21.347Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T13:36:26.139Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T13:36:40.121Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T13:36:41.185Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T13:37:05.147Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T15:53:09.128Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T15:53:10.326Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T15:53:15.122Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T15:54:53.852Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T15:54:54.907Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T15:54:58.094Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T16:01:47.855Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T16:01:48.998Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T16:02:12.694Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T16:02:12.697Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T16:02:12.742Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T16:02:15.464Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T16:02:23.287Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T16:02:24.313Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T16:02:27.603Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T16:02:27.604Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T16:02:27.686Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T16:02:30.920Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T17:25:25.007Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T17:25:26.029Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T17:25:48.756Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T17:25:49.898Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T17:29:37.161Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T17:29:38.263Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T17:29:41.440Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T17:29:41.443Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T17:29:41.474Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T17:29:44.803Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T17:29:44.805Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T17:35:40.745Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T17:35:41.737Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T17:35:45.072Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T17:35:45.073Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T17:35:45.106Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T17:35:46.866Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T17:35:46.868Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T17:37:19.901Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T17:37:20.904Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T17:37:24.045Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T17:37:24.046Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T17:37:24.076Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T17:37:27.642Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T17:37:27.643Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T17:39:43.545Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T17:39:44.645Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T17:39:48.068Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T17:39:48.070Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T17:39:48.099Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T17:39:51.629Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T17:39:51.632Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T17:39:51.665Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T17:39:51.886Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T17:39:51.888Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T17:39:53.805Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:19:31.988Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:19:33.150Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:19:36.349Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:19:36.351Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:19:36.382Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:19:38.247Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:19:38.248Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:19:38.287Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:19:38.509Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:19:38.511Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:19:39.627Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:19:39.630Z] [INFO] - This function helps to select the product
+[2025-05-03T18:21:40.591Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:21:41.716Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:21:47.472Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:21:47.474Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:21:47.527Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:21:51.638Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:21:51.640Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:21:51.703Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:21:51.980Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:21:51.982Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:21:53.593Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:21:53.596Z] [INFO] - This function helps to select the product
+[2025-05-03T18:22:27.804Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:22:28.843Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:22:33.509Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:22:33.511Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:22:33.551Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:22:35.692Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:22:35.695Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:22:35.888Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:22:36.095Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:22:36.097Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:22:37.731Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:22:37.734Z] [INFO] - This function helps to select the product
+[2025-05-03T18:23:40.360Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:23:41.333Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:23:44.849Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:23:44.851Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:23:44.908Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:23:48.658Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:23:48.660Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:23:48.688Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:23:48.898Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:23:48.900Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:23:50.494Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:23:50.500Z] [INFO] - This function helps to select the product
+[2025-05-03T18:31:58.198Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:31:59.619Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:32:04.455Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:32:04.457Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:32:04.544Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:32:06.662Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:32:06.663Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:32:06.691Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:32:06.917Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:32:06.920Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:32:08.579Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:32:08.599Z] [INFO] - This function helps to select the product
+[2025-05-03T18:32:21.577Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:32:22.730Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:32:26.866Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:32:26.869Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:32:26.914Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:32:30.547Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:32:30.550Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:32:30.590Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:32:30.792Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:32:30.794Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:32:32.156Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:32:32.158Z] [INFO] - This function helps to select the product
+[2025-05-03T18:34:44.164Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:34:45.241Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:34:48.869Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:34:48.871Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:34:48.919Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:34:52.888Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:34:52.890Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:34:52.920Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:34:53.217Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:34:53.218Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:34:55.318Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:34:55.319Z] [INFO] - This function helps to select the product
+[2025-05-03T18:37:42.393Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:37:43.433Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:37:47.726Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:37:47.727Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:37:47.758Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:37:50.003Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:37:50.006Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:37:50.033Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:37:50.250Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:37:50.251Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:37:51.632Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:37:51.634Z] [INFO] - This function helps to select the product
+[2025-05-03T18:39:07.943Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:39:08.989Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:39:11.932Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:39:11.934Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:39:11.972Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:39:14.215Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:39:14.215Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:39:14.250Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:39:14.658Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:39:14.660Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:39:16.215Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:39:16.216Z] [INFO] - This function helps to select the product
+[2025-05-03T18:39:43.737Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:39:44.825Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:39:49.189Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:39:49.190Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:39:49.231Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:39:51.083Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:39:51.084Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:39:51.119Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:39:51.374Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:39:51.376Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:39:52.278Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:39:52.280Z] [INFO] - This function helps to select the product
+[2025-05-03T18:40:07.038Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T18:40:08.157Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T18:40:11.467Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T18:40:11.469Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T18:40:11.527Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T18:40:13.807Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T18:40:13.810Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T18:40:13.850Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T18:40:14.167Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T18:40:14.169Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T18:40:15.502Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T18:40:15.503Z] [INFO] - This function helps to select the product
+[2025-05-03T19:23:47.653Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T19:23:48.707Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T19:23:51.902Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T19:23:51.903Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T19:23:51.933Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T19:23:54.158Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T19:23:54.160Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T19:23:54.201Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T19:23:54.498Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T19:23:54.500Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T19:23:55.341Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T19:23:55.345Z] [INFO] - This function helps to click on view product button
+[2025-05-03T19:24:54.655Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T19:24:56.219Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T19:25:06.967Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T19:25:06.969Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T19:25:07.001Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T19:25:10.135Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T19:25:10.137Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T19:25:10.257Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T19:25:10.390Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T19:25:10.391Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T19:25:11.917Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T19:25:11.919Z] [INFO] - This function helps to click on view product button
+[2025-05-03T19:28:59.182Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T19:29:00.311Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T19:29:03.575Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T19:29:03.576Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T19:29:03.603Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T19:29:05.844Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T19:29:05.846Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T19:29:05.890Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T19:29:06.392Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T19:29:06.394Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T19:29:07.949Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T19:29:07.952Z] [INFO] - This function helps to click on view product button
+[2025-05-03T19:30:30.517Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T19:30:31.559Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T19:30:55.162Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T19:30:55.163Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T19:30:55.194Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T19:30:58.377Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T19:30:58.379Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T19:30:58.407Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T19:30:58.735Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T19:30:58.736Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T19:30:59.517Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T19:30:59.518Z] [INFO] - This function helps to click on view product button
+[2025-05-03T19:33:39.387Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T19:33:40.469Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T19:33:50.374Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T19:33:50.375Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T19:33:50.411Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T19:33:54.668Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T19:33:54.670Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T19:33:54.718Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T19:33:54.949Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T19:33:54.950Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T19:33:56.636Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T19:33:56.637Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T19:35:25.592Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T19:35:26.653Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T19:35:29.803Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T19:35:29.805Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T19:35:29.835Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T19:35:31.994Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T19:35:31.995Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T19:35:32.025Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T19:35:32.338Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T19:35:32.341Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T19:35:34.003Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T19:35:34.009Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T19:36:29.905Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T19:36:30.992Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T19:36:36.480Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T19:36:36.482Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T19:36:36.517Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T19:36:40.513Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T19:36:40.518Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T19:36:40.567Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T19:36:40.864Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T19:36:40.866Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T19:36:42.431Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T19:36:42.433Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T19:37:59.483Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T19:38:00.489Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T19:38:07.197Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T19:38:07.198Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T19:38:07.233Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T19:38:11.558Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T19:38:11.560Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T19:38:11.595Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T19:38:11.899Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T19:38:11.901Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T19:38:13.403Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T19:38:13.405Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T19:41:29.928Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T19:41:30.990Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T19:41:54.382Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T19:41:54.384Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T19:41:54.415Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T19:41:57.625Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T19:41:57.626Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T19:41:57.659Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T19:41:57.990Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T19:41:57.992Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T19:41:59.525Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T19:41:59.531Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T20:10:24.305Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T20:10:25.490Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T20:10:33.455Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T20:10:33.458Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T20:10:33.496Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T20:10:38.356Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T20:10:38.359Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T20:10:38.602Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T20:10:38.734Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T20:10:38.736Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T20:10:40.137Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T20:10:40.138Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T20:14:45.899Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T20:14:47.008Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T20:14:50.084Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T20:14:50.085Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T20:14:50.136Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T20:14:54.139Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T20:14:54.144Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T20:14:54.180Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T20:14:54.815Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T20:14:54.817Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T20:14:56.911Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T20:14:56.913Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T20:15:07.325Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T20:15:08.424Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T20:15:11.724Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T20:15:11.725Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T20:15:11.755Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T20:15:15.445Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T20:15:15.447Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T20:15:15.483Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T20:15:15.786Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T20:15:15.788Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T20:15:17.430Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T20:15:17.432Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T20:17:50.105Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T20:17:51.221Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T20:17:54.492Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T20:17:54.495Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T20:17:54.542Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T20:17:56.777Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T20:17:56.779Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T20:17:56.824Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T20:17:57.048Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T20:17:57.050Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T20:17:57.913Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T20:17:57.916Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T20:18:27.627Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T20:18:28.871Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T20:18:33.684Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T20:18:33.686Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T20:18:33.750Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T20:18:35.956Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T20:18:35.957Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T20:18:36.005Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T20:18:36.276Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T20:18:36.278Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T20:18:37.937Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T20:18:37.938Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-03T20:22:45.491Z] [INFO] - Initializing local Chrome driver
+[2025-05-03T20:22:46.522Z] [INFO] - Chrome driver initialized successfully
+[2025-05-03T20:22:49.711Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-03T20:22:49.712Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-03T20:22:49.742Z] [INFO] - This function helps to click on the product tab
+[2025-05-03T20:22:52.129Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-03T20:22:52.130Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-03T20:22:52.169Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-03T20:22:52.407Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-03T20:22:52.409Z] [INFO] - This function helps to click on the search product button
+[2025-05-03T20:22:53.775Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-03T20:22:53.778Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-04T04:39:32.454Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:39:34.340Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:39:38.400Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:39:38.402Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:39:38.479Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:39:40.164Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:39:40.166Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:39:40.442Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:39:41.027Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:39:41.029Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:39:42.742Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:39:42.745Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-04T04:39:59.958Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:40:01.476Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:40:05.328Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:40:05.333Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:40:05.427Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:40:06.794Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:40:06.797Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:40:07.089Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:40:07.597Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:40:07.601Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:40:08.723Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:40:08.729Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-04T04:44:34.790Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:44:36.091Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:44:39.742Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:44:39.745Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:44:39.831Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:44:42.579Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:44:42.585Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:44:42.729Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:44:42.952Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:44:42.955Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:44:45.654Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:44:45.657Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-04T04:45:42.090Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:45:43.581Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:45:48.634Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:45:48.636Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:45:48.827Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:45:52.632Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:45:52.634Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:45:52.692Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:45:53.125Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:45:53.128Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:45:54.313Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:45:54.316Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-04T04:47:49.906Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:47:51.635Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:47:55.070Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:47:55.073Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:47:55.167Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:47:58.337Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:47:58.340Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:47:58.397Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:47:58.799Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:47:58.801Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:47:59.856Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:47:59.857Z] [INFO] - This function helps to click on view product button based on the index value by disabling the iframe and host element
+[2025-05-04T04:54:11.207Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:54:13.042Z] [ERROR] - Failed to initialize WebDriver: unknown error: JavaScript code failed
+from unknown command: 'Runtime.evaluate' wasn't found
+  (Session info: chrome=136.0.7103.49)
+[2025-05-04T04:54:24.427Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:54:25.930Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:54:31.357Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:54:31.360Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:54:31.421Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:54:35.575Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:54:35.579Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:54:36.177Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:54:36.360Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:54:36.362Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:54:38.366Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:54:38.368Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T04:54:50.914Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:54:52.363Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:54:55.958Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:54:55.961Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:54:56.042Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:54:58.051Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:54:58.061Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:54:58.231Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:54:58.509Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:54:58.512Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:54:59.559Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:54:59.562Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T04:55:22.422Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:55:23.784Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:55:27.722Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:55:27.724Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:55:27.764Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:55:30.765Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:55:30.767Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:55:30.801Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:55:30.968Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:55:30.970Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:55:36.318Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:55:36.322Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T04:55:37.577Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T04:56:04.700Z] [ERROR] - Click failed on XPath: //button[@type='button'] - Error: ECONNREFUSED connect ECONNREFUSED 127.0.0.1:64046
+[2025-05-04T04:56:42.486Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:56:43.906Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:56:47.610Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:56:47.612Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:56:47.671Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:56:50.118Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:56:50.120Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:56:50.283Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:56:50.470Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:56:50.471Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:56:52.265Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:56:52.278Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T04:56:54.765Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T04:56:55.023Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T04:57:07.526Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T04:57:09.055Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T04:57:15.399Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T04:57:15.404Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T04:57:15.472Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T04:57:19.983Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T04:57:19.987Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T04:57:20.114Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T04:57:20.410Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T04:57:20.413Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T04:57:22.309Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T04:57:22.314Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T04:57:24.965Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T05:01:52.542Z] [ERROR] - Click failed on XPath: //button[@type='button'] - Error: ECONNREFUSED connect ECONNREFUSED 127.0.0.1:64234
+[2025-05-04T05:02:19.902Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T05:02:21.533Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T05:02:25.220Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T05:02:25.227Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T05:02:25.296Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T05:02:26.815Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T05:02:26.817Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T05:02:27.214Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T05:02:28.503Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T05:02:28.505Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T05:02:29.708Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T05:02:29.709Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T05:02:34.239Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T05:02:34.390Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T05:02:34.392Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T05:02:36.025Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T06:16:53.371Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T06:16:54.877Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T06:16:58.372Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T06:16:58.374Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T06:16:58.447Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T06:17:01.140Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T06:17:01.148Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T06:17:01.203Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T06:17:01.477Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T06:17:01.479Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T06:17:02.645Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T06:17:02.646Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T06:17:04.407Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T06:17:04.833Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T06:17:04.834Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T06:17:06.081Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T06:17:06.085Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T06:17:06.229Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T06:40:31.464Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T06:40:32.633Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T06:40:35.874Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T06:40:35.875Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T06:41:33.118Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T06:41:34.313Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T06:41:42.077Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T06:41:42.078Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T06:41:42.115Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T06:41:47.651Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T06:41:47.652Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T06:41:47.687Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T06:41:47.941Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T06:41:47.942Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T06:41:50.262Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T06:41:50.264Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T06:41:51.412Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T06:41:51.625Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T06:41:51.628Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T06:41:52.737Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T06:41:52.739Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T06:41:52.761Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T06:41:52.787Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T06:41:52.788Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T06:41:53.088Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T06:41:53.091Z] [INFO] - This function helps to click on register login link
+[2025-05-04T06:41:53.973Z] [INFO] - Clicked on element with XPath: //u[text()='Register / Login']
+[2025-05-04T07:07:11.208Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T07:07:12.318Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T07:07:16.584Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T07:07:16.585Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T07:07:16.614Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T07:07:19.187Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T07:07:19.188Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:07:19.212Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T07:07:19.522Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T07:07:19.524Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T07:07:20.614Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T07:07:20.617Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T07:07:23.830Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T07:07:24.090Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T07:07:24.091Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T07:07:25.257Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T07:07:25.258Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:07:25.283Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T07:07:25.381Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T07:07:25.383Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T07:07:25.597Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T07:07:25.598Z] [INFO] - This function helps to click on register login link
+[2025-05-04T07:07:26.546Z] [INFO] - Clicked on element with XPath: //u[text()='Register / Login']
+[2025-05-04T07:07:26.549Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:07:26.577Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T07:07:26.836Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T07:07:27.150Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T07:07:28.075Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T07:12:20.392Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T07:12:21.596Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T07:12:45.363Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T07:12:45.367Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T07:12:45.404Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T07:12:49.668Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T07:12:49.670Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:12:49.704Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T07:12:49.996Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T07:12:49.998Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T07:12:52.161Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T07:12:52.163Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T07:13:07.436Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T07:13:08.546Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T07:13:12.958Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T07:13:12.960Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T07:13:12.996Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T07:13:15.916Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T07:13:15.917Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:13:15.945Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T07:13:16.264Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T07:13:16.266Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T07:13:17.196Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T07:13:17.197Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T07:14:19.241Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T07:14:20.343Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T07:14:27.233Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T07:14:27.235Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T07:14:27.264Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T07:14:31.900Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T07:14:31.901Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:14:31.929Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T07:14:32.224Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T07:14:32.226Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T07:14:34.325Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T07:14:34.328Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T07:14:34.607Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T07:14:36.705Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T07:14:36.706Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T07:14:46.797Z] [ERROR] - Click failed on XPath: //a[@href='/view_cart']//u - ElementNotInteractableError: element not interactable
+  (Session info: chrome=136.0.7103.49)
+[2025-05-04T07:15:00.219Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T07:15:01.272Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T07:15:05.188Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T07:15:05.190Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T07:15:05.224Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T07:15:05.494Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T07:15:05.495Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:15:08.443Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T07:15:08.680Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T07:15:08.685Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T07:15:10.246Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T07:15:10.247Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T07:15:11.573Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T07:15:11.715Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T07:15:11.716Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T07:15:13.313Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T07:15:13.315Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:15:13.341Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T07:15:13.404Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T07:15:13.405Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T07:15:13.623Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T07:15:13.624Z] [INFO] - This function helps to click on register login link
+[2025-05-04T07:15:14.812Z] [INFO] - Clicked on element with XPath: //u[text()='Register / Login']
+[2025-05-04T07:15:14.813Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:15:14.840Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T07:15:15.153Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T07:15:15.394Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T07:15:15.518Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T07:16:08.317Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T07:16:09.392Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T07:16:15.548Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T07:16:15.550Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T07:16:15.583Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T07:16:20.047Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T07:16:20.049Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:16:20.083Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T07:16:20.386Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T07:16:20.388Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T07:16:22.505Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T07:16:22.506Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T07:16:23.447Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T07:16:23.566Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T07:16:23.567Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T07:16:24.966Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T07:16:24.968Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:16:25.001Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T07:16:25.296Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T07:16:25.300Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T07:16:25.504Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T07:16:25.507Z] [INFO] - This function helps to click on register login link
+[2025-05-04T07:16:26.462Z] [INFO] - Clicked on element with XPath: //u[text()='Register / Login']
+[2025-05-04T07:16:26.464Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:16:34.857Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T07:16:36.057Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T07:16:36.957Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T07:16:51.283Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T07:21:52.257Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T07:21:53.307Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T07:21:57.741Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T07:21:57.742Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T07:21:57.772Z] [INFO] - This function helps to click on the signup or login tab
+[2025-05-04T07:23:25.631Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T07:23:26.773Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T07:23:31.870Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T07:23:31.872Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T07:23:31.907Z] [INFO] - This function helps to click on the signup or login tab
+[2025-05-04T07:23:32.840Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Signup / Login')]
+[2025-05-04T07:23:32.842Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:23:32.879Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T07:23:33.316Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T07:23:33.439Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T07:23:33.548Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T07:23:33.551Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T07:23:39.126Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T07:23:39.127Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:23:39.154Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T07:23:39.483Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T07:23:39.484Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T07:23:40.502Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T07:23:40.504Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T07:23:43.109Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T07:23:43.198Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T07:23:43.199Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T07:23:44.334Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T07:23:44.336Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T07:23:44.364Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T07:23:44.615Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T07:23:44.615Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T07:23:46.160Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T08:59:23.234Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T08:59:24.364Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T08:59:29.459Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T08:59:29.460Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T08:59:29.509Z] [INFO] - This function helps to click on the signup or login tab
+[2025-05-04T08:59:30.534Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Signup / Login')]
+[2025-05-04T08:59:30.537Z] [INFO] - This function helps to verify the  Signup or Login is selected and displayed
+[2025-05-04T08:59:30.632Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T08:59:31.011Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T08:59:31.157Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T08:59:34.352Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T08:59:34.353Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T08:59:36.986Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T08:59:36.987Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T08:59:37.012Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T08:59:37.309Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T08:59:37.310Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T08:59:39.452Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T08:59:39.454Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T08:59:41.095Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T08:59:41.204Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T08:59:41.205Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T08:59:42.251Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T08:59:42.253Z] [INFO] - This function helps to verify the cart page is selected and displayed
+[2025-05-04T08:59:42.276Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T08:59:42.452Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T08:59:42.453Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T08:59:43.308Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T08:59:43.309Z] [INFO] - This function helps to click on place order button
+[2025-05-04T08:59:44.464Z] [INFO] - Clicked on element with XPath: //a[text()='Place Order']
+[2025-05-04T08:59:44.466Z] [INFO] - This function helps to verify the payment page is displayed
+[2025-05-04T08:59:44.500Z] [INFO] - This function helps to enter card details
+[2025-05-04T08:59:44.949Z] [INFO] - Entered text into element with XPath: //input[@data-qa='name-on-card']
+[2025-05-04T08:59:45.347Z] [INFO] - Entered text into element with XPath: //input[@data-qa='card-number']
+[2025-05-04T08:59:45.596Z] [INFO] - Entered text into element with XPath: //input[@data-qa='cvc']
+[2025-05-04T08:59:45.764Z] [INFO] - Entered text into element with XPath: //input[@data-qa='expiry-month']
+[2025-05-04T08:59:45.938Z] [INFO] - Entered text into element with XPath: //input[@data-qa='expiry-year']
+[2025-05-04T09:00:06.415Z] [ERROR] - Click failed on XPath: //input[@data-qa='pay-button'] - NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+[2025-05-04T09:01:26.215Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T09:01:27.290Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T09:01:30.483Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T09:01:30.485Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T09:01:30.519Z] [INFO] - This function helps to click on the signup or login tab
+[2025-05-04T09:01:31.514Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Signup / Login')]
+[2025-05-04T09:01:31.517Z] [INFO] - This function helps to verify the  Signup or Login is selected and displayed
+[2025-05-04T09:01:31.615Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T09:01:31.850Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T09:01:32.015Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T09:01:32.191Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T09:01:32.195Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T09:01:36.229Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T09:01:36.231Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T09:01:36.268Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T09:01:36.446Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T09:01:36.447Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T09:01:37.471Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T09:01:37.473Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T09:02:17.721Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T09:02:18.833Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T09:02:24.944Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T09:02:24.947Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T09:02:25.007Z] [INFO] - This function helps to click on the signup or login tab
+[2025-05-04T09:02:25.971Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Signup / Login')]
+[2025-05-04T09:02:25.974Z] [INFO] - This function helps to verify the  Signup or Login is selected and displayed
+[2025-05-04T09:02:26.003Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T09:02:26.302Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T09:02:26.454Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T09:02:31.556Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T09:02:31.557Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T09:02:35.303Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T09:02:35.304Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T09:02:35.332Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T09:02:35.522Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T09:02:35.524Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T09:02:37.416Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T09:02:37.417Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T09:02:38.379Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T09:02:38.537Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T09:02:38.538Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T09:02:39.784Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T09:02:39.785Z] [INFO] - This function helps to verify the cart page is selected and displayed
+[2025-05-04T09:02:39.810Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T09:02:39.864Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T09:02:39.865Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T09:02:41.447Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T09:02:41.448Z] [INFO] - This function helps to click on place order button
+[2025-05-04T09:02:42.638Z] [ERROR] - Click failed on XPath: //a[text()='Place Order'] - ElementClickInterceptedError: element click intercepted: Element <a href="/payment" class="btn btn-default check_out">...</a> is not clickable at point (1211, 663). Other element would receive the click: <div id="aswift_1_host" style="border: none !important; height: 90px !important; width: 100% !important; margin: 0px !important; padding: 0px !important; position: relative !important; visibility: visible !important; background-color: transparent !important; display: inline-block !important; inset: auto !important; clear: none !important; float: none !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; vertical-align: baseline !important; z-index: auto !important;">...</div>
+  (Session info: chrome=136.0.7103.49)
+[2025-05-04T09:03:34.285Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T09:03:35.279Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T09:03:39.054Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T09:03:40.121Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T09:03:50.539Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T09:03:50.542Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T09:03:50.578Z] [INFO] - This function helps to click on the signup or login tab
+[2025-05-04T09:03:51.911Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Signup / Login')]
+[2025-05-04T09:03:51.914Z] [INFO] - This function helps to verify the  Signup or Login is selected and displayed
+[2025-05-04T09:03:51.943Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T09:03:52.452Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T09:03:52.613Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T09:03:52.743Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T09:03:52.744Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T09:04:00.902Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T09:04:00.903Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T09:04:00.936Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T09:04:01.217Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T09:04:01.219Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T09:04:02.964Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T09:04:02.966Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T09:04:04.099Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T09:04:04.582Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T09:04:04.586Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T09:04:05.799Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T09:04:05.802Z] [INFO] - This function helps to verify the cart page is selected and displayed
+[2025-05-04T09:04:05.851Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T09:04:06.048Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T09:04:06.049Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T09:04:07.467Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T09:04:07.469Z] [INFO] - This function helps to click on place order button
+[2025-05-04T09:04:08.657Z] [ERROR] - Click failed on XPath: //a[text()='Place Order'] - ElementClickInterceptedError: element click intercepted: Element <a href="/payment" class="btn btn-default check_out">...</a> is not clickable at point (1211, 663). Other element would receive the click: <div id="aswift_1_host" style="border: none !important; height: 90px !important; width: 100% !important; margin: 0px !important; padding: 0px !important; position: relative !important; visibility: visible !important; background-color: transparent !important; display: inline-block !important; inset: auto !important; clear: none !important; float: none !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; vertical-align: baseline !important; z-index: auto !important;">...</div>
+  (Session info: chrome=136.0.7103.49)
+[2025-05-04T09:06:23.927Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T09:06:24.947Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T09:06:29.428Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T09:06:29.430Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T09:06:29.483Z] [INFO] - This function helps to click on the signup or login tab
+[2025-05-04T09:06:30.528Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Signup / Login')]
+[2025-05-04T09:06:30.530Z] [INFO] - This function helps to verify the  Signup or Login is selected and displayed
+[2025-05-04T09:06:30.558Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T09:06:30.871Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T09:06:31.158Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T09:06:38.259Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T09:06:39.241Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T09:06:50.049Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T09:06:50.056Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T09:06:50.105Z] [INFO] - This function helps to click on the signup or login tab
+[2025-05-04T09:06:51.443Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Signup / Login')]
+[2025-05-04T09:06:51.445Z] [INFO] - This function helps to verify the  Signup or Login is selected and displayed
+[2025-05-04T09:06:51.475Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T09:06:51.840Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T09:06:52.059Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T09:06:52.190Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T09:06:52.192Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T09:06:57.755Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T09:06:57.756Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T09:06:57.801Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T09:06:57.974Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T09:06:57.975Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T09:06:59.521Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T09:06:59.523Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T09:07:00.561Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T09:07:00.748Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T09:07:00.750Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T09:07:01.890Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T09:07:01.892Z] [INFO] - This function helps to verify the cart page is selected and displayed
+[2025-05-04T09:07:01.923Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T09:07:01.991Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T09:07:01.994Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T09:07:03.492Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T09:07:03.494Z] [INFO] - This function helps to click on place order button
+[2025-05-04T09:07:04.619Z] [INFO] - Clicked on element with XPath: //a[text()='Place Order']
+[2025-05-04T09:07:04.622Z] [INFO] - This function helps to verify the payment page is displayed
+[2025-05-04T09:07:04.657Z] [INFO] - This function helps to enter card details
+[2025-05-04T09:07:04.970Z] [INFO] - Entered text into element with XPath: //input[@data-qa='name-on-card']
+[2025-05-04T09:07:05.317Z] [INFO] - Entered text into element with XPath: //input[@data-qa='card-number']
+[2025-05-04T09:07:05.625Z] [INFO] - Entered text into element with XPath: //input[@data-qa='cvc']
+[2025-05-04T09:07:05.831Z] [INFO] - Entered text into element with XPath: //input[@data-qa='expiry-month']
+[2025-05-04T09:07:05.977Z] [INFO] - Entered text into element with XPath: //input[@data-qa='expiry-year']
+[2025-05-04T09:07:30.843Z] [ERROR] - Click failed on XPath: //input[@data-qa='pay-button'] - NoSuchSessionError: This driver instance does not have a valid session ID (did you call WebDriver.quit()?) and may no longer be used.
+[2025-05-04T09:08:58.672Z] [INFO] - Initializing local Chrome driver
+[2025-05-04T09:08:59.656Z] [INFO] - Chrome driver initialized successfully
+[2025-05-04T09:09:03.890Z] [INFO] - Navigated to: https://automationexercise.com/
+[2025-05-04T09:09:03.891Z] [INFO] - This function helps to verify the home page is selected and displayed
+[2025-05-04T09:09:03.960Z] [INFO] - This function helps to click on the signup or login tab
+[2025-05-04T09:09:04.933Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Signup / Login')]
+[2025-05-04T09:09:04.935Z] [INFO] - This function helps to verify the  Signup or Login is selected and displayed
+[2025-05-04T09:09:04.968Z] [INFO] - This function helps to login to the application with the given email and password
+[2025-05-04T09:09:05.284Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-email']
+[2025-05-04T09:09:05.507Z] [INFO] - Entered text into element with XPath: //input[@data-qa='login-password']
+[2025-05-04T09:09:05.596Z] [INFO] - Clicked on element with XPath: //button[text()='Login']
+[2025-05-04T09:09:05.597Z] [INFO] - This function helps to click on the product tab
+[2025-05-04T09:09:12.335Z] [INFO] - Clicked on element with XPath: //a[contains(text(),'Products')]
+[2025-05-04T09:09:12.336Z] [INFO] - This function helps to verify the product page is selected and displayed
+[2025-05-04T09:09:12.360Z] [INFO] - This function helps to enter the product name in the search field
+[2025-05-04T09:09:12.662Z] [INFO] - Entered text into element with XPath: //input[@id='search_product']
+[2025-05-04T09:09:12.664Z] [INFO] - This function helps to click on the search product button
+[2025-05-04T09:09:14.566Z] [INFO] - Clicked on element with XPath: //button[@id='submit_search']
+[2025-05-04T09:09:14.569Z] [INFO] - This function helps to click on view product button based on the index value
+[2025-05-04T09:09:16.119Z] [INFO] - This function helps to click on add to cart button
+[2025-05-04T09:09:16.265Z] [INFO] - Clicked on element with XPath: //button[@type='button']
+[2025-05-04T09:09:16.266Z] [INFO] - This function helps to click on view cart button
+[2025-05-04T09:09:17.464Z] [INFO] - Clicked on element with XPath: //a[@href='/view_cart']//u
+[2025-05-04T09:09:17.466Z] [INFO] - This function helps to verify the cart page is selected and displayed
+[2025-05-04T09:09:17.491Z] [INFO] - This function helps to verify the product is added to cart
+[2025-05-04T09:09:17.557Z] [INFO] - Text fetched from XPath: //a[text()='Pure Cotton V-Neck T-Shirt'] -> Pure Cotton V-Neck T-Shirt
+[2025-05-04T09:09:17.559Z] [INFO] - This function helps to click on proceed to checkout button
+[2025-05-04T09:09:18.683Z] [INFO] - Clicked on element with XPath: //a[text()='Proceed To Checkout']
+[2025-05-04T09:09:18.686Z] [INFO] - This function helps to click on place order button
+[2025-05-04T09:09:19.766Z] [INFO] - Clicked on element with XPath: //a[text()='Place Order']
+[2025-05-04T09:09:19.769Z] [INFO] - This function helps to verify the payment page is displayed
+[2025-05-04T09:09:19.866Z] [INFO] - This function helps to enter card details
+[2025-05-04T09:09:20.239Z] [INFO] - Entered text into element with XPath: //input[@data-qa='name-on-card']
+[2025-05-04T09:09:20.438Z] [INFO] - Entered text into element with XPath: //input[@data-qa='card-number']
+[2025-05-04T09:09:20.618Z] [INFO] - Entered text into element with XPath: //input[@data-qa='cvc']
+[2025-05-04T09:09:20.831Z] [INFO] - Entered text into element with XPath: //input[@data-qa='expiry-month']
+[2025-05-04T09:09:20.960Z] [INFO] - Entered text into element with XPath: //input[@data-qa='expiry-year']
+[2025-05-04T09:09:21.063Z] [INFO] - Clicked on element with XPath: //button[@data-qa='pay-button']
+[2025-05-04T09:09:21.065Z] [INFO] - This function helps to verify the order is placed

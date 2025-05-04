@@ -1,0 +1,16 @@
+{
+  "login": {
+      "username": "dhruva1ga18me033@gmail.com",
+      "password": "dhruva"
+  },
+  "products": {
+    "productName": "T-shirt"
+  },
+  "payment": {
+    "NameOnCard": "Dhruva",
+    "cardNumber": "4464040000000007",
+    "cvv": "345",
+    "expiryMonth": "12",
+    "Year": "2036"
+  }
+}
